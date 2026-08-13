@@ -16,10 +16,10 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-13T04:20:23Z",
+            "last_commit": "2026-08-13T07:05:46Z",
             "owner": "SeleniumHQ",
             "repo": "selenium",
-            "stars": 34366
+            "stars": 34369
           }
         },
         {
@@ -64,10 +64,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-12T08:28:54Z",
+            "last_commit": "2026-08-13T09:25:51Z",
             "owner": "puppeteer",
             "repo": "puppeteer",
-            "stars": 95459
+            "stars": 95458
           }
         },
         {
@@ -81,7 +81,7 @@
             "last_commit": "2026-08-13T03:33:32Z",
             "owner": "microsoft",
             "repo": "playwright",
-            "stars": 94443
+            "stars": 94462
           }
         },
         {
@@ -95,7 +95,7 @@
             "last_commit": "2024-04-20T17:54:13Z",
             "owner": "segment-boneyard",
             "repo": "nightmare",
-            "stars": 19780
+            "stars": 19779
           }
         },
         {
@@ -151,7 +151,7 @@
             "last_commit": "2024-09-07T22:39:52Z",
             "owner": "garris",
             "repo": "BackstopJS",
-            "stars": 7167
+            "stars": 7168
           }
         },
         {
@@ -218,7 +218,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-12T21:09:39Z",
+            "last_commit": "2026-08-13T07:58:55Z",
             "owner": "selenide",
             "repo": "selenide",
             "stars": 1908
@@ -277,7 +277,7 @@
             "last_commit": "2023-11-10T20:56:25Z",
             "owner": "SamHatoum",
             "repo": "chimp",
-            "stars": 799
+            "stars": 800
           }
         },
         {
@@ -386,7 +386,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-12T04:33:00Z",
+            "last_commit": "2026-08-13T09:46:06Z",
             "owner": "reg-viz",
             "repo": "reg-cli",
             "stars": 418
@@ -610,7 +610,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-12T18:21:48Z",
+            "last_commit": "2026-08-13T06:04:03Z",
             "owner": "las-team",
             "repo": "lastest",
             "stars": 12
@@ -686,10 +686,10 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-13T04:20:23Z",
+            "last_commit": "2026-08-13T07:05:46Z",
             "owner": "SeleniumHQ",
             "repo": "selenium",
-            "stars": 34366
+            "stars": 34369
           }
         },
         {
@@ -742,7 +742,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-12T14:56:44Z",
+            "last_commit": "2026-08-13T10:04:54Z",
             "owner": "sherlo-io",
             "repo": "sherlo",
             "stars": 83
@@ -827,7 +827,7 @@
             "last_commit": "2020-04-03T21:57:20Z",
             "owner": "casperjs",
             "repo": "casperjs",
-            "stars": 7160
+            "stars": 7161
           }
         },
         {
@@ -993,7 +993,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T04:27:18.098Z",
+    "last_updated": "2026-08-13T11:10:23.803Z",
     "original_repository": "mojoaxel/awesome-regression-testing",
     "original_repository_sha": "38f8fcde521b4438fb2fbcaa8d8143d64a2cf404",
     "enhanced_repository": "enhansome/enhansome-regression-testing",
