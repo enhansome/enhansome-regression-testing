@@ -19,7 +19,7 @@
             "last_commit": "2026-08-16T00:14:44Z",
             "owner": "SeleniumHQ",
             "repo": "selenium",
-            "stars": 34382
+            "stars": 34370
           }
         },
         {
@@ -30,10 +30,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-15T07:28:17Z",
+            "last_commit": "2026-08-17T10:33:58Z",
             "owner": "webdriverio",
             "repo": "webdriverio",
-            "stars": 9816
+            "stars": 9817
           }
         },
         {
@@ -64,10 +64,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-16T03:04:57Z",
+            "last_commit": "2026-08-17T09:18:11Z",
             "owner": "puppeteer",
             "repo": "puppeteer",
-            "stars": 95461
+            "stars": 95463
           }
         },
         {
@@ -78,10 +78,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-15T00:19:07Z",
+            "last_commit": "2026-08-17T10:15:37Z",
             "owner": "microsoft",
             "repo": "playwright",
-            "stars": 94573
+            "stars": 94614
           }
         },
         {
@@ -95,7 +95,7 @@
             "last_commit": "2024-04-20T17:54:13Z",
             "owner": "segment-boneyard",
             "repo": "nightmare",
-            "stars": 19778
+            "stars": 19771
           }
         },
         {
@@ -109,7 +109,7 @@
             "last_commit": "2026-05-25T14:47:41Z",
             "owner": "nightwatchjs",
             "repo": "nightwatch",
-            "stars": 11958
+            "stars": 11959
           }
         },
         {
@@ -137,7 +137,7 @@
             "last_commit": "2023-05-24T20:07:37Z",
             "owner": "angular",
             "repo": "protractor",
-            "stars": 8666
+            "stars": 8665
           }
         },
         {
@@ -179,7 +179,7 @@
             "last_commit": "2026-08-15T10:53:14Z",
             "owner": "codeceptjs",
             "repo": "CodeceptJS",
-            "stars": 4240
+            "stars": 4241
           }
         },
         {
@@ -218,7 +218,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-16T09:07:25Z",
+            "last_commit": "2026-08-17T07:54:01Z",
             "owner": "selenide",
             "repo": "selenide",
             "stars": 1908
@@ -235,7 +235,7 @@
             "last_commit": "2026-04-22T17:12:49Z",
             "owner": "lost-pixel",
             "repo": "lost-pixel",
-            "stars": 1683
+            "stars": 1682
           }
         },
         {
@@ -263,7 +263,7 @@
             "last_commit": "2026-08-14T20:54:39Z",
             "owner": "reg-viz",
             "repo": "reg-suit",
-            "stars": 1288
+            "stars": 1287
           }
         },
         {
@@ -386,7 +386,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-16T06:02:47Z",
+            "last_commit": "2026-08-17T02:15:35Z",
             "owner": "reg-viz",
             "repo": "reg-cli",
             "stars": 418
@@ -610,7 +610,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-16T10:06:28Z",
+            "last_commit": "2026-08-17T04:55:58Z",
             "owner": "las-team",
             "repo": "lastest",
             "stars": 13
@@ -689,7 +689,7 @@
             "last_commit": "2026-08-16T00:14:44Z",
             "owner": "SeleniumHQ",
             "repo": "selenium",
-            "stars": 34382
+            "stars": 34370
           }
         },
         {
@@ -799,7 +799,7 @@
             "last_commit": "2022-11-26T19:43:12Z",
             "owner": "ariya",
             "repo": "phantomjs",
-            "stars": 29455
+            "stars": 29450
           }
         },
         {
@@ -993,7 +993,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T10:37:50.317Z",
+    "last_updated": "2026-08-17T10:47:50.770Z",
     "original_repository": "mojoaxel/awesome-regression-testing",
     "original_repository_sha": "38f8fcde521b4438fb2fbcaa8d8143d64a2cf404",
     "enhanced_repository": "enhansome/enhansome-regression-testing",
