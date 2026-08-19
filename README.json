@@ -12,10 +12,10 @@
             "archived": false,
             "id": 7613257,
             "language": "Java",
-            "last_commit": "2026-08-19T09:57:33Z",
+            "last_commit": "2026-08-19T11:39:25Z",
             "owner": "SeleniumHQ",
             "repo": "selenium",
-            "stars": 34378
+            "stars": 34379
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-08-19T04:18:31Z",
             "owner": "webdriverio",
             "repo": "webdriverio",
-            "stars": 9817
+            "stars": 9818
           }
         },
         {
@@ -66,7 +66,7 @@
             "last_commit": "2026-08-19T06:09:48Z",
             "owner": "puppeteer",
             "repo": "puppeteer",
-            "stars": 95465
+            "stars": 95467
           }
         },
         {
@@ -81,7 +81,7 @@
             "last_commit": "2026-08-19T06:44:48Z",
             "owner": "microsoft",
             "repo": "playwright",
-            "stars": 94726
+            "stars": 94732
           }
         },
         {
@@ -96,7 +96,7 @@
             "last_commit": "2024-04-20T17:54:13Z",
             "owner": "segment-boneyard",
             "repo": "nightmare",
-            "stars": 19770
+            "stars": 19771
           }
         },
         {
@@ -156,7 +156,7 @@
             "last_commit": "2024-09-07T22:39:52Z",
             "owner": "garris",
             "repo": "BackstopJS",
-            "stars": 7171
+            "stars": 7172
           }
         },
         {
@@ -729,10 +729,10 @@
             "archived": false,
             "id": 7613257,
             "language": "Java",
-            "last_commit": "2026-08-19T09:57:33Z",
+            "last_commit": "2026-08-19T11:39:25Z",
             "owner": "SeleniumHQ",
             "repo": "selenium",
-            "stars": 34378
+            "stars": 34379
           }
         },
         {
@@ -1022,8 +1022,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T10:45:12.062Z",
+    "last_updated": "2026-08-19T12:50:20.043Z",
     "original_repository": "mojoaxel/awesome-regression-testing",
+    "original_repository_id": 95643441,
     "original_repository_sha": "38f8fcde521b4438fb2fbcaa8d8143d64a2cf404",
     "enhanced_repository": "enhansome/enhansome-regression-testing",
     "enhanced_repository_description": null,
