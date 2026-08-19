@@ -1,12 +1,7 @@
 {
   "items": [
     {
-      "description": "This is intended to be an incomplete list of resources about visual regression testing. It is not tailored to a specific area or role (Developer/QA/UX-Designer). Note that this is for all areas of regression software testing after the code in question is written. For a awesome list on general software testing see e.g. awesome-testing.\nFinally, I'm sure everyone who reads this list has one thing they want to add. Please read the How to Contribute page and Feel free to add to the list!!. If you think this is helpful Please give a Star ⭐️.",
-      "items": [],
-      "title": "Foreword"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -15,11 +10,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 7613257,
             "language": "Java",
-            "last_commit": "2026-08-18T10:11:25Z",
+            "last_commit": "2026-08-19T09:57:33Z",
             "owner": "SeleniumHQ",
             "repo": "selenium",
-            "stars": 34373
+            "stars": 34378
           }
         },
         {
@@ -29,11 +25,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 2296970,
             "language": "TypeScript",
-            "last_commit": "2026-08-18T07:18:49Z",
+            "last_commit": "2026-08-19T04:18:31Z",
             "owner": "webdriverio",
             "repo": "webdriverio",
-            "stars": 9816
+            "stars": 9817
           }
         },
         {
@@ -43,6 +40,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 7136348,
             "language": "JavaScript",
             "last_commit": "2023-03-09T01:45:51Z",
             "owner": "laurentj",
@@ -54,7 +52,7 @@
       "title": "Browser automation"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -63,11 +61,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 90796663,
             "language": "TypeScript",
-            "last_commit": "2026-08-18T09:04:58Z",
+            "last_commit": "2026-08-19T06:09:48Z",
             "owner": "puppeteer",
             "repo": "puppeteer",
-            "stars": 95460
+            "stars": 95465
           }
         },
         {
@@ -77,11 +76,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 221981891,
             "language": "TypeScript",
-            "last_commit": "2026-08-18T06:48:24Z",
+            "last_commit": "2026-08-19T06:44:48Z",
             "owner": "microsoft",
             "repo": "playwright",
-            "stars": 94671
+            "stars": 94726
           }
         },
         {
@@ -91,11 +91,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 18477927,
             "language": "JavaScript",
             "last_commit": "2024-04-20T17:54:13Z",
             "owner": "segment-boneyard",
             "repo": "nightmare",
-            "stars": 19771
+            "stars": 19770
           }
         },
         {
@@ -105,6 +106,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 3750921,
             "language": "JavaScript",
             "last_commit": "2026-05-25T14:47:41Z",
             "owner": "nightwatchjs",
@@ -119,6 +121,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 34262857,
             "language": "JavaScript",
             "last_commit": "2026-08-12T03:00:49Z",
             "owner": "DevExpress",
@@ -133,6 +136,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 7639232,
             "language": "JavaScript",
             "last_commit": "2023-05-24T20:07:37Z",
             "owner": "angular",
@@ -147,6 +151,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 25268795,
             "language": "JavaScript",
             "last_commit": "2024-09-07T22:39:52Z",
             "owner": "garris",
@@ -161,6 +166,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 8336642,
             "language": "JavaScript",
             "last_commit": "2024-02-06T21:57:14Z",
             "owner": "rsmbl",
@@ -175,6 +181,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 46641250,
             "language": "JavaScript",
             "last_commit": "2026-08-15T10:53:14Z",
             "owner": "codeceptjs",
@@ -189,6 +196,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 95487541,
             "language": "JavaScript",
             "last_commit": "2026-08-05T17:49:22Z",
             "owner": "americanexpress",
@@ -198,30 +206,32 @@
         },
         {
           "node_type": "item",
-          "title": "Selenide",
-          "description": "Framework powered by Selenium WebDriver for writing easy-to-read and easy-to-maintain automated tests in Java.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2026-08-17T13:27:39Z",
-            "owner": "selenide",
-            "repo": "selenide",
-            "stars": 1908
-          }
-        },
-        {
-          "node_type": "item",
           "title": "Loki",
           "description": "Visual regression testing for Storybook using Chrome in docker et al.",
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 96754761,
             "language": "JavaScript",
             "last_commit": "2024-10-12T05:41:37Z",
             "owner": "oblador",
             "repo": "loki",
-            "stars": 1907
+            "stars": 1908
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Selenide",
+          "description": "Framework powered by Selenium WebDriver for writing easy-to-read and easy-to-maintain automated tests in Java.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 3376848,
+            "language": "Java",
+            "last_commit": "2026-08-19T08:04:59Z",
+            "owner": "selenide",
+            "repo": "selenide",
+            "stars": 1908
           }
         },
         {
@@ -231,6 +241,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 440311533,
             "language": "TypeScript",
             "last_commit": "2026-04-22T17:12:49Z",
             "owner": "lost-pixel",
@@ -245,6 +256,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 12896452,
             "language": "Java",
             "last_commit": "2022-07-15T20:08:10Z",
             "owner": "galenframework",
@@ -259,6 +271,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 95481549,
             "language": "TypeScript",
             "last_commit": "2026-08-14T20:54:39Z",
             "owner": "reg-viz",
@@ -273,6 +286,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 33154212,
             "language": "TypeScript",
             "last_commit": "2023-11-10T20:56:25Z",
             "owner": "SamHatoum",
@@ -287,6 +301,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 94310798,
             "language": "JavaScript",
             "last_commit": "2020-06-02T12:59:51Z",
             "owner": "NimaSoroush",
@@ -301,6 +316,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1207377,
             "language": "Python",
             "last_commit": "2022-11-05T17:23:40Z",
             "owner": "python-needle",
@@ -315,6 +331,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 519869,
             "language": "JavaScript",
             "last_commit": "2021-04-01T21:06:52Z",
             "owner": "bitovi",
@@ -329,6 +346,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 468843509,
             "language": "TypeScript",
             "last_commit": "2024-08-04T05:32:25Z",
             "owner": "trytouca",
@@ -343,6 +361,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 5533890,
             "language": "JavaScript",
             "last_commit": "2023-01-28T16:43:50Z",
             "owner": "cburgmer",
@@ -357,6 +376,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 53410008,
             "language": "Ruby",
             "last_commit": "2022-05-29T01:25:19Z",
             "owner": "wearefriday",
@@ -371,6 +391,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 169072354,
             "language": "TypeScript",
             "last_commit": "2026-08-06T12:01:58Z",
             "owner": "creevey",
@@ -385,8 +406,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 75525101,
             "language": "Rust",
-            "last_commit": "2026-08-18T05:08:36Z",
+            "last_commit": "2026-08-19T06:10:39Z",
             "owner": "reg-viz",
             "repo": "reg-cli",
             "stars": 418
@@ -399,6 +421,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 6919024,
             "language": "JavaScript",
             "last_commit": "2015-03-27T13:13:54Z",
             "owner": "thingsinjars",
@@ -413,6 +436,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 11664115,
             "language": "Smarty",
             "last_commit": "2016-06-13T22:58:44Z",
             "owner": "stefanjudis",
@@ -427,6 +451,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 135700398,
             "language": "JavaScript",
             "last_commit": "2025-10-06T13:49:22Z",
             "owner": "newsuk",
@@ -441,6 +466,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 100950468,
             "language": "JavaScript",
             "last_commit": "2026-05-11T06:00:24Z",
             "owner": "happo",
@@ -455,6 +481,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 343191342,
             "language": "OCaml",
             "last_commit": "2026-05-02T05:57:19Z",
             "owner": "eWert-Online",
@@ -469,6 +496,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 60241390,
             "language": "Java",
             "last_commit": "2024-01-15T15:13:21Z",
             "owner": "wttech",
@@ -483,6 +511,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 112625306,
             "language": "JavaScript",
             "last_commit": "2024-03-08T12:06:25Z",
             "owner": "angrykoala",
@@ -497,6 +526,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 129085909,
             "language": "JavaScript",
             "last_commit": "2024-10-23T09:44:55Z",
             "owner": "Hapag-Lloyd",
@@ -511,6 +541,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 103246258,
             "language": "JavaScript",
             "last_commit": "2021-04-29T09:50:55Z",
             "owner": "HuddleEng",
@@ -525,6 +556,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 2260265,
             "language": "Ruby",
             "last_commit": "2013-08-01T05:24:55Z",
             "owner": "gabrielrotbart",
@@ -539,6 +571,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 30967451,
             "language": "PHP",
             "last_commit": "2018-12-07T18:00:41Z",
             "owner": "shoov",
@@ -553,6 +586,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 42513308,
             "language": "JavaScript",
             "last_commit": "2018-08-07T21:46:56Z",
             "owner": "kdzwinel",
@@ -567,6 +601,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 173499408,
             "language": "TypeScript",
             "last_commit": "2022-02-18T13:00:13Z",
             "owner": "apiel",
@@ -581,6 +616,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 119838954,
             "language": "JavaScript",
             "last_commit": "2024-01-17T14:09:50Z",
             "owner": "Cropster",
@@ -595,6 +631,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 76411682,
             "language": "JavaScript",
             "last_commit": "2017-04-19T16:14:33Z",
             "owner": "nathanmarks",
@@ -609,11 +646,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1203099061,
             "language": "TypeScript",
             "last_commit": "2026-08-17T04:55:58Z",
             "owner": "las-team",
             "repo": "lastest",
-            "stars": 14
+            "stars": 16
           }
         },
         {
@@ -623,6 +661,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 236575352,
             "language": "TypeScript",
             "last_commit": "2023-11-06T11:07:45Z",
             "owner": "ennjin",
@@ -637,6 +676,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1211660614,
             "language": "JavaScript",
             "last_commit": "2026-04-15T16:07:36Z",
             "owner": "neg-0",
@@ -651,6 +691,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1173014181,
             "language": "JavaScript",
             "last_commit": "2026-03-04T23:27:01Z",
             "owner": "Robocular",
@@ -665,6 +706,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1066892933,
             "language": null,
             "last_commit": "2025-09-30T05:32:23Z",
             "owner": "BBC-News",
@@ -676,7 +718,7 @@
       "title": "Tools and frameworks (a-z↓)"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -685,11 +727,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 7613257,
             "language": "Java",
-            "last_commit": "2026-08-18T10:11:25Z",
+            "last_commit": "2026-08-19T09:57:33Z",
             "owner": "SeleniumHQ",
             "repo": "selenium",
-            "stars": 34373
+            "stars": 34378
           }
         },
         {
@@ -699,6 +742,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 262550222,
             "language": "Shell",
             "last_commit": "2026-08-07T18:05:31Z",
             "owner": "Visual-Regression-Tracker",
@@ -713,6 +757,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 273387594,
             "language": "JavaScript",
             "last_commit": "2023-03-05T22:08:22Z",
             "owner": "Mikuu",
@@ -727,6 +772,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 241091114,
             "language": "JavaScript",
             "last_commit": "2026-08-15T19:24:15Z",
             "owner": "testomatio",
@@ -741,6 +787,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 767591352,
             "language": "TypeScript",
             "last_commit": "2026-08-13T10:04:54Z",
             "owner": "sherlo-io",
@@ -752,7 +799,7 @@
       "title": "Online services (a-z↓)"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -761,6 +808,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 94310798,
             "language": "JavaScript",
             "last_commit": "2020-06-02T12:59:51Z",
             "owner": "NimaSoroush",
@@ -775,6 +823,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 110119679,
             "language": "JavaScript",
             "last_commit": "2017-11-09T18:15:28Z",
             "owner": "novemberfiveco",
@@ -795,6 +844,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 1200050,
             "language": "C++",
             "last_commit": "2022-11-26T19:43:12Z",
             "owner": "ariya",
@@ -809,11 +859,12 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 93076012,
             "language": "TypeScript",
             "last_commit": "2018-11-13T02:23:55Z",
             "owner": "schickling",
             "repo": "chromeless",
-            "stars": 13228
+            "stars": 13227
           }
         },
         {
@@ -823,11 +874,12 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 2328523,
             "language": "JavaScript",
             "last_commit": "2020-04-03T21:57:20Z",
             "owner": "casperjs",
             "repo": "casperjs",
-            "stars": 7160
+            "stars": 7159
           }
         },
         {
@@ -837,6 +889,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 11757750,
             "language": "Python",
             "last_commit": "2021-09-07T23:22:47Z",
             "owner": "facebookarchive",
@@ -851,6 +904,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 16734168,
             "language": "JavaScript",
             "last_commit": "2021-05-20T15:49:32Z",
             "owner": "gemini-testing",
@@ -865,6 +919,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 8262363,
             "language": "Python",
             "last_commit": "2016-12-05T18:07:01Z",
             "owner": "bslatkin",
@@ -879,6 +934,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 95808074,
             "language": "TypeScript",
             "last_commit": "2018-07-24T17:25:36Z",
             "owner": "joelgriffith",
@@ -893,6 +949,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 12584242,
             "language": "JavaScript",
             "last_commit": "2026-04-27T10:40:48Z",
             "owner": "sdesalas",
@@ -907,6 +964,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 7504744,
             "language": "JavaScript",
             "last_commit": "2020-04-03T09:39:43Z",
             "owner": "dalekjs",
@@ -921,6 +979,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 18198033,
             "language": "JavaScript",
             "last_commit": "2017-04-24T18:19:15Z",
             "owner": "webdriverio-boneyard",
@@ -935,6 +994,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 30074647,
             "language": "Clojure",
             "last_commit": "2020-02-10T20:58:02Z",
             "owner": "xebia",
@@ -949,51 +1009,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 64378987,
             "language": "JavaScript",
             "last_commit": "2017-02-22T17:38:21Z",
             "owner": "mmacartney10",
             "repo": "ocularjs",
             "stars": 7
           }
-        },
-        {
-          "node_type": "item",
-          "title": "PhantomCSS",
-          "description": "Visual/CSS regression testing with PhantomJS or SlimerJS. No longer maintained since 22 Dec 2017.",
-          "children": []
-        },
-        {
-          "node_type": "item",
-          "title": "PhantomFlow",
-          "description": "Experimental approach to UI testing, based on Decision Trees.",
-          "children": []
         }
       ],
       "title": "Deprecated (a-z↓)"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Miscellaneous"
-    },
-    {
-      "description": "See the Contribution Guide for details on how to contribute.",
-      "items": [],
-      "title": "Contributing"
-    },
-    {
-      "description": "See the Code of Conduct for details. Basically it comes down to:",
-      "items": [],
-      "title": "Code of Conduct"
-    },
-    {
-      "description": "This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License. License holders are all contributors.",
-      "items": [],
-      "title": "License"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T10:44:59.930Z",
+    "last_updated": "2026-08-19T10:45:12.062Z",
     "original_repository": "mojoaxel/awesome-regression-testing",
     "original_repository_sha": "38f8fcde521b4438fb2fbcaa8d8143d64a2cf404",
     "enhanced_repository": "enhansome/enhansome-regression-testing",
