@@ -12,10 +12,10 @@
             "archived": false,
             "id": 7613257,
             "language": "Java",
-            "last_commit": "2026-08-20T00:30:21Z",
+            "last_commit": "2026-08-21T00:26:47Z",
             "owner": "SeleniumHQ",
             "repo": "selenium",
-            "stars": 34380
+            "stars": 34383
           }
         },
         {
@@ -27,7 +27,7 @@
             "archived": false,
             "id": 2296970,
             "language": "TypeScript",
-            "last_commit": "2026-08-19T04:18:31Z",
+            "last_commit": "2026-08-21T01:45:25Z",
             "owner": "webdriverio",
             "repo": "webdriverio",
             "stars": 9817
@@ -63,10 +63,10 @@
             "archived": false,
             "id": 90796663,
             "language": "TypeScript",
-            "last_commit": "2026-08-20T10:01:20Z",
+            "last_commit": "2026-08-21T09:31:43Z",
             "owner": "puppeteer",
             "repo": "puppeteer",
-            "stars": 95472
+            "stars": 95479
           }
         },
         {
@@ -78,10 +78,10 @@
             "archived": false,
             "id": 221981891,
             "language": "TypeScript",
-            "last_commit": "2026-08-20T06:52:56Z",
+            "last_commit": "2026-08-21T10:09:26Z",
             "owner": "microsoft",
             "repo": "playwright",
-            "stars": 94795
+            "stars": 94885
           }
         },
         {
@@ -96,7 +96,7 @@
             "last_commit": "2024-04-20T17:54:13Z",
             "owner": "segment-boneyard",
             "repo": "nightmare",
-            "stars": 19771
+            "stars": 19770
           }
         },
         {
@@ -156,7 +156,7 @@
             "last_commit": "2024-09-07T22:39:52Z",
             "owner": "garris",
             "repo": "BackstopJS",
-            "stars": 7171
+            "stars": 7173
           }
         },
         {
@@ -216,7 +216,7 @@
             "last_commit": "2024-10-12T05:41:37Z",
             "owner": "oblador",
             "repo": "loki",
-            "stars": 1908
+            "stars": 1909
           }
         },
         {
@@ -228,7 +228,7 @@
             "archived": false,
             "id": 3376848,
             "language": "Java",
-            "last_commit": "2026-08-20T08:20:51Z",
+            "last_commit": "2026-08-20T10:58:38Z",
             "owner": "selenide",
             "repo": "selenide",
             "stars": 1908
@@ -408,7 +408,7 @@
             "archived": false,
             "id": 75525101,
             "language": "Rust",
-            "last_commit": "2026-08-20T02:10:00Z",
+            "last_commit": "2026-08-21T05:12:22Z",
             "owner": "reg-viz",
             "repo": "reg-cli",
             "stars": 418
@@ -729,10 +729,10 @@
             "archived": false,
             "id": 7613257,
             "language": "Java",
-            "last_commit": "2026-08-20T00:30:21Z",
+            "last_commit": "2026-08-21T00:26:47Z",
             "owner": "SeleniumHQ",
             "repo": "selenium",
-            "stars": 34380
+            "stars": 34383
           }
         },
         {
@@ -864,7 +864,7 @@
             "last_commit": "2018-11-13T02:23:55Z",
             "owner": "schickling",
             "repo": "chromeless",
-            "stars": 13227
+            "stars": 13226
           }
         },
         {
@@ -894,7 +894,7 @@
             "last_commit": "2021-09-07T23:22:47Z",
             "owner": "facebookarchive",
             "repo": "huxley",
-            "stars": 4036
+            "stars": 4035
           }
         },
         {
@@ -1022,7 +1022,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T10:46:14.045Z",
+    "last_updated": "2026-08-21T10:45:52.713Z",
     "original_repository": "mojoaxel/awesome-regression-testing",
     "original_repository_id": 95643441,
     "original_repository_sha": "38f8fcde521b4438fb2fbcaa8d8143d64a2cf404",
