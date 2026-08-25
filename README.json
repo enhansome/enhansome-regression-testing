@@ -15,7 +15,7 @@
             "last_commit": "2026-08-25T00:26:08Z",
             "owner": "SeleniumHQ",
             "repo": "selenium",
-            "stars": 34390
+            "stars": 34391
           }
         },
         {
@@ -63,10 +63,10 @@
             "archived": false,
             "id": 90796663,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T17:06:57Z",
+            "last_commit": "2026-08-25T09:54:39Z",
             "owner": "puppeteer",
             "repo": "puppeteer",
-            "stars": 95495
+            "stars": 95496
           }
         },
         {
@@ -78,10 +78,10 @@
             "archived": false,
             "id": 221981891,
             "language": "TypeScript",
-            "last_commit": "2026-08-25T02:09:25Z",
+            "last_commit": "2026-08-25T07:26:57Z",
             "owner": "microsoft",
             "repo": "playwright",
-            "stars": 95082
+            "stars": 95094
           }
         },
         {
@@ -156,7 +156,7 @@
             "last_commit": "2024-09-07T22:39:52Z",
             "owner": "garris",
             "repo": "BackstopJS",
-            "stars": 7175
+            "stars": 7176
           }
         },
         {
@@ -206,21 +206,6 @@
         },
         {
           "node_type": "item",
-          "title": "Loki",
-          "description": "Visual regression testing for Storybook using Chrome in docker et al.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 96754761,
-            "language": "JavaScript",
-            "last_commit": "2024-10-12T05:41:37Z",
-            "owner": "oblador",
-            "repo": "loki",
-            "stars": 1908
-          }
-        },
-        {
-          "node_type": "item",
           "title": "Selenide",
           "description": "Framework powered by Selenium WebDriver for writing easy-to-read and easy-to-maintain automated tests in Java.",
           "children": [],
@@ -231,6 +216,21 @@
             "last_commit": "2026-08-24T08:06:54Z",
             "owner": "selenide",
             "repo": "selenide",
+            "stars": 1909
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Loki",
+          "description": "Visual regression testing for Storybook using Chrome in docker et al.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 96754761,
+            "language": "JavaScript",
+            "last_commit": "2024-10-12T05:41:37Z",
+            "owner": "oblador",
+            "repo": "loki",
             "stars": 1908
           }
         },
@@ -633,7 +633,7 @@
             "archived": false,
             "id": 1203099061,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T18:10:38Z",
+            "last_commit": "2026-08-25T10:33:47Z",
             "owner": "las-team",
             "repo": "lastest",
             "stars": 17
@@ -732,7 +732,7 @@
             "last_commit": "2026-08-25T00:26:08Z",
             "owner": "SeleniumHQ",
             "repo": "selenium",
-            "stars": 34390
+            "stars": 34391
           }
         },
         {
@@ -1022,7 +1022,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T05:56:11.472Z",
+    "last_updated": "2026-08-25T10:48:40.471Z",
     "original_repository": "mojoaxel/awesome-regression-testing",
     "original_repository_id": 95643441,
     "original_repository_sha": "38f8fcde521b4438fb2fbcaa8d8143d64a2cf404",
