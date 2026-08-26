@@ -12,10 +12,10 @@
             "archived": false,
             "id": 7613257,
             "language": "Java",
-            "last_commit": "2026-08-25T00:26:08Z",
+            "last_commit": "2026-08-26T00:26:24Z",
             "owner": "SeleniumHQ",
             "repo": "selenium",
-            "stars": 34391
+            "stars": 34395
           }
         },
         {
@@ -63,10 +63,10 @@
             "archived": false,
             "id": 90796663,
             "language": "TypeScript",
-            "last_commit": "2026-08-25T09:54:39Z",
+            "last_commit": "2026-08-26T10:31:28Z",
             "owner": "puppeteer",
             "repo": "puppeteer",
-            "stars": 95496
+            "stars": 95500
           }
         },
         {
@@ -78,10 +78,10 @@
             "archived": false,
             "id": 221981891,
             "language": "TypeScript",
-            "last_commit": "2026-08-25T07:26:57Z",
+            "last_commit": "2026-08-26T07:09:11Z",
             "owner": "microsoft",
             "repo": "playwright",
-            "stars": 95094
+            "stars": 95155
           }
         },
         {
@@ -96,7 +96,7 @@
             "last_commit": "2024-04-20T17:54:13Z",
             "owner": "segment-boneyard",
             "repo": "nightmare",
-            "stars": 19770
+            "stars": 19768
           }
         },
         {
@@ -111,7 +111,7 @@
             "last_commit": "2026-05-25T14:47:41Z",
             "owner": "nightwatchjs",
             "repo": "nightwatch",
-            "stars": 11957
+            "stars": 11956
           }
         },
         {
@@ -126,7 +126,7 @@
             "last_commit": "2026-08-20T07:09:22Z",
             "owner": "DevExpress",
             "repo": "testcafe",
-            "stars": 9907
+            "stars": 9906
           }
         },
         {
@@ -171,7 +171,7 @@
             "last_commit": "2024-02-06T21:57:14Z",
             "owner": "rsmbl",
             "repo": "Resemble.js",
-            "stars": 4613
+            "stars": 4612
           }
         },
         {
@@ -408,7 +408,7 @@
             "archived": false,
             "id": 75525101,
             "language": "Rust",
-            "last_commit": "2026-08-24T03:11:59Z",
+            "last_commit": "2026-08-26T06:40:12Z",
             "owner": "reg-viz",
             "repo": "reg-cli",
             "stars": 418
@@ -441,7 +441,7 @@
             "last_commit": "2016-06-13T22:58:44Z",
             "owner": "stefanjudis",
             "repo": "grunt-photobox",
-            "stars": 278
+            "stars": 277
           }
         },
         {
@@ -633,7 +633,7 @@
             "archived": false,
             "id": 1203099061,
             "language": "TypeScript",
-            "last_commit": "2026-08-25T10:33:47Z",
+            "last_commit": "2026-08-25T19:30:33Z",
             "owner": "las-team",
             "repo": "lastest",
             "stars": 17
@@ -729,10 +729,10 @@
             "archived": false,
             "id": 7613257,
             "language": "Java",
-            "last_commit": "2026-08-25T00:26:08Z",
+            "last_commit": "2026-08-26T00:26:24Z",
             "owner": "SeleniumHQ",
             "repo": "selenium",
-            "stars": 34391
+            "stars": 34395
           }
         },
         {
@@ -789,7 +789,7 @@
             "archived": false,
             "id": 767591352,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T18:28:23Z",
+            "last_commit": "2026-08-26T08:06:17Z",
             "owner": "sherlo-io",
             "repo": "sherlo",
             "stars": 83
@@ -864,7 +864,7 @@
             "last_commit": "2018-11-13T02:23:55Z",
             "owner": "schickling",
             "repo": "chromeless",
-            "stars": 13224
+            "stars": 13223
           }
         },
         {
@@ -1022,7 +1022,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T10:48:40.471Z",
+    "last_updated": "2026-08-26T10:51:00.469Z",
     "original_repository": "mojoaxel/awesome-regression-testing",
     "original_repository_id": 95643441,
     "original_repository_sha": "38f8fcde521b4438fb2fbcaa8d8143d64a2cf404",
