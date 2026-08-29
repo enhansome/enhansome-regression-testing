@@ -15,11 +15,11 @@
             "id": 7613257,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-29T00:51:27Z",
-            "open_issues": 189,
+            "last_commit": "2026-08-29T11:08:48Z",
+            "open_issues": 191,
             "owner": "SeleniumHQ",
             "repo": "selenium",
-            "stars": 34417,
+            "stars": 34421,
             "topics": [
               "dotnet",
               "java",
@@ -49,7 +49,7 @@
             "open_issues": 288,
             "owner": "webdriverio",
             "repo": "webdriverio",
-            "stars": 9828,
+            "stars": 9829,
             "topics": [
               "automation",
               "cucumber",
@@ -116,7 +116,7 @@
             "open_issues": 263,
             "owner": "puppeteer",
             "repo": "puppeteer",
-            "stars": 95515,
+            "stars": 95520,
             "topics": [
               "automation",
               "chrome",
@@ -144,10 +144,10 @@
             "language": "TypeScript",
             "license": "Apache-2.0",
             "last_commit": "2026-08-29T01:43:34Z",
-            "open_issues": 167,
+            "open_issues": 171,
             "owner": "microsoft",
             "repo": "playwright",
-            "stars": 95316,
+            "stars": 95331,
             "topics": [
               "automation",
               "chrome",
@@ -422,8 +422,8 @@
             "id": 3376848,
             "language": "Java",
             "license": "MIT",
-            "last_commit": "2026-08-28T20:36:43Z",
-            "open_issues": 33,
+            "last_commit": "2026-08-29T08:30:57Z",
+            "open_issues": 31,
             "owner": "selenide",
             "repo": "selenide",
             "stars": 1910,
@@ -1155,7 +1155,7 @@
             "open_issues": 17,
             "owner": "las-team",
             "repo": "lastest",
-            "stars": 17,
+            "stars": 18,
             "topics": [
               "ai-testing",
               "mcp",
@@ -1324,11 +1324,11 @@
             "id": 7613257,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-29T00:51:27Z",
-            "open_issues": 189,
+            "last_commit": "2026-08-29T11:08:48Z",
+            "open_issues": 191,
             "owner": "SeleniumHQ",
             "repo": "selenium",
-            "stars": 34417,
+            "stars": 34421,
             "topics": [
               "dotnet",
               "java",
@@ -1358,7 +1358,7 @@
             "open_issues": 55,
             "owner": "Visual-Regression-Tracker",
             "repo": "Visual-Regression-Tracker",
-            "stars": 708,
+            "stars": 709,
             "topics": [
               "cypress",
               "docker",
@@ -1568,7 +1568,7 @@
             "open_issues": 198,
             "owner": "schickling",
             "repo": "chromeless",
-            "stars": 13223,
+            "stars": 13224,
             "topics": [
               "chrome",
               "graphcool",
@@ -1823,7 +1823,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:24:34.665Z",
+    "last_updated": "2026-08-29T15:03:17.570Z",
     "original_repository_info": {
       "archived": false,
       "description": "🕶️ A curated list of resources around the topic: visual regression testing",
