@@ -15,11 +15,11 @@
             "id": 7613257,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-01T16:43:47Z",
-            "open_issues": 194,
+            "last_commit": "2026-10-02T11:11:54Z",
+            "open_issues": 191,
             "owner": "SeleniumHQ",
             "repo": "selenium",
-            "stars": 34518,
+            "stars": 34516,
             "topics": [
               "dotnet",
               "java",
@@ -45,11 +45,11 @@
             "id": 2296970,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-01T11:48:17Z",
-            "open_issues": 223,
+            "last_commit": "2026-10-02T16:03:01Z",
+            "open_issues": 228,
             "owner": "webdriverio",
             "repo": "webdriverio",
-            "stars": 9842,
+            "stars": 9844,
             "topics": [
               "automation",
               "cucumber",
@@ -83,7 +83,7 @@
             "open_issues": 164,
             "owner": "laurentj",
             "repo": "slimerjs",
-            "stars": 2997,
+            "stars": 2998,
             "topics": [
               "casperjs",
               "firefox",
@@ -112,11 +112,11 @@
             "id": 221981891,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-01T16:00:29Z",
-            "open_issues": 202,
+            "last_commit": "2026-10-02T15:54:26Z",
+            "open_issues": 207,
             "owner": "microsoft",
             "repo": "playwright",
-            "stars": 96965,
+            "stars": 97006,
             "topics": [
               "automation",
               "chrome",
@@ -149,11 +149,11 @@
             "id": 90796663,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-01T15:28:08Z",
-            "open_issues": 273,
+            "last_commit": "2026-10-02T09:13:56Z",
+            "open_issues": 272,
             "owner": "puppeteer",
             "repo": "puppeteer",
-            "stars": 95644,
+            "stars": 95643,
             "topics": [
               "automation",
               "chrome",
@@ -184,7 +184,7 @@
             "open_issues": 203,
             "owner": "segment-boneyard",
             "repo": "nightmare",
-            "stars": 19760,
+            "stars": 19759,
             "topics": [
               "browser",
               "chrome",
@@ -211,7 +211,7 @@
             "open_issues": 335,
             "owner": "nightwatchjs",
             "repo": "nightwatch",
-            "stars": 11952,
+            "stars": 11951,
             "topics": [
               "automated-testing",
               "chromedriver",
@@ -244,10 +244,10 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-09-10T23:08:04Z",
-            "open_issues": 46,
+            "open_issues": 45,
             "owner": "DevExpress",
             "repo": "testcafe",
-            "stars": 9899,
+            "stars": 9900,
             "topics": [
               "browser",
               "e2e",
@@ -279,7 +279,7 @@
             "open_issues": 684,
             "owner": "angular",
             "repo": "protractor",
-            "stars": 8661,
+            "stars": 8662,
             "topics": [
               "angular",
               "end-to-end",
@@ -309,7 +309,7 @@
             "open_issues": 577,
             "owner": "garris",
             "repo": "BackstopJS",
-            "stars": 7182,
+            "stars": 7183,
             "topics": [
               "backstopjs",
               "chrome-headless",
@@ -336,7 +336,7 @@
             "open_issues": 28,
             "owner": "rsmbl",
             "repo": "Resemble.js",
-            "stars": 4608,
+            "stars": 4609,
             "topics": []
           },
           "first_seen": "2026-08-28T21:11:14.005Z"
@@ -353,8 +353,8 @@
             "id": 46641250,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-29T15:22:18Z",
-            "open_issues": 199,
+            "last_commit": "2026-10-01T22:08:08Z",
+            "open_issues": 203,
             "owner": "codeceptjs",
             "repo": "CodeceptJS",
             "stars": 4242,
@@ -396,7 +396,7 @@
             "open_issues": 42,
             "owner": "americanexpress",
             "repo": "jest-image-snapshot",
-            "stars": 3917,
+            "stars": 3918,
             "topics": [
               "image-comparisons",
               "image-snapshots",
@@ -426,7 +426,7 @@
             "open_issues": 141,
             "owner": "oblador",
             "repo": "loki",
-            "stars": 1912,
+            "stars": 1913,
             "topics": [
               "android",
               "ios",
@@ -458,7 +458,7 @@
             "open_issues": 35,
             "owner": "selenide",
             "repo": "selenide",
-            "stars": 1911,
+            "stars": 1912,
             "topics": []
           },
           "first_seen": "2026-08-28T21:11:14.005Z"
@@ -519,7 +519,7 @@
             "open_issues": 173,
             "owner": "galenframework",
             "repo": "galen",
-            "stars": 1415,
+            "stars": 1416,
             "topics": [
               "image-comparison",
               "java",
@@ -546,7 +546,7 @@
             "open_issues": 72,
             "owner": "reg-viz",
             "repo": "reg-suit",
-            "stars": 1296,
+            "stars": 1297,
             "topics": [
               "automation-tests",
               "nodejs",
@@ -573,7 +573,7 @@
             "open_issues": 9,
             "owner": "SamHatoum",
             "repo": "chimp",
-            "stars": 799,
+            "stars": 800,
             "topics": [
               "apollo",
               "chimp",
@@ -603,7 +603,7 @@
             "open_issues": 27,
             "owner": "NimaSoroush",
             "repo": "differencify",
-            "stars": 638,
+            "stars": 639,
             "topics": [
               "headless-chrome",
               "jest",
@@ -631,7 +631,7 @@
             "open_issues": 20,
             "owner": "python-needle",
             "repo": "needle",
-            "stars": 596,
+            "stars": 597,
             "topics": [
               "css",
               "python",
@@ -657,7 +657,7 @@
             "open_issues": 64,
             "owner": "bitovi",
             "repo": "funcunit",
-            "stars": 571,
+            "stars": 572,
             "topics": []
           },
           "first_seen": "2026-08-28T21:11:14.005Z"
@@ -678,7 +678,7 @@
             "open_issues": 6,
             "owner": "trytouca",
             "repo": "trytouca",
-            "stars": 508,
+            "stars": 509,
             "topics": [
               "developer-tools",
               "open-source",
@@ -706,7 +706,7 @@
             "open_issues": 17,
             "owner": "cburgmer",
             "repo": "csscritic",
-            "stars": 487,
+            "stars": 488,
             "topics": []
           },
           "first_seen": "2026-08-28T21:11:14.005Z"
@@ -727,7 +727,7 @@
             "open_issues": 0,
             "owner": "wearefriday",
             "repo": "spectre",
-            "stars": 458,
+            "stars": 459,
             "topics": []
           },
           "first_seen": "2026-08-28T21:11:14.005Z"
@@ -748,7 +748,7 @@
             "open_issues": 43,
             "owner": "creevey",
             "repo": "creevey",
-            "stars": 434,
+            "stars": 435,
             "topics": [
               "angular",
               "react",
@@ -775,11 +775,11 @@
             "id": 75525101,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-10-01T14:33:32Z",
+            "last_commit": "2026-10-02T02:40:50Z",
             "open_issues": 26,
             "owner": "reg-viz",
             "repo": "reg-cli",
-            "stars": 419,
+            "stars": 420,
             "topics": [
               "reg-suit",
               "visual-recognition",
@@ -805,7 +805,7 @@
             "open_issues": 10,
             "owner": "thingsinjars",
             "repo": "Hardy",
-            "stars": 323,
+            "stars": 324,
             "topics": []
           },
           "first_seen": "2026-08-28T21:11:14.005Z"
@@ -826,7 +826,7 @@
             "open_issues": 3,
             "owner": "stefanjudis",
             "repo": "grunt-photobox",
-            "stars": 277,
+            "stars": 278,
             "topics": []
           },
           "first_seen": "2026-08-28T21:11:14.005Z"
@@ -847,7 +847,7 @@
             "open_issues": 43,
             "owner": "newsuk",
             "repo": "AyeSpy",
-            "stars": 221,
+            "stars": 222,
             "topics": [
               "continuous-delivery",
               "continuous-deployment",
@@ -903,7 +903,7 @@
             "open_issues": 4,
             "owner": "eWert-Online",
             "repo": "OSnap",
-            "stars": 175,
+            "stars": 176,
             "topics": [
               "diff",
               "image-comparison",
@@ -933,7 +933,7 @@
             "open_issues": 112,
             "owner": "wttech",
             "repo": "aet",
-            "stars": 151,
+            "stars": 152,
             "topics": [
               "accessibility",
               "accessibility-checker",
@@ -975,7 +975,7 @@
             "open_issues": 21,
             "owner": "angrykoala",
             "repo": "wendigo",
-            "stars": 150,
+            "stars": 151,
             "topics": [
               "browser",
               "browser-automation",
@@ -1008,7 +1008,7 @@
             "open_issues": 5,
             "owner": "Hapag-Lloyd",
             "repo": "jest-puppeteer-react",
-            "stars": 74,
+            "stars": 75,
             "topics": []
           },
           "first_seen": "2026-08-28T21:11:14.005Z"
@@ -1050,7 +1050,7 @@
             "open_issues": 2,
             "owner": "gabrielrotbart",
             "repo": "gatling",
-            "stars": 58,
+            "stars": 59,
             "topics": []
           },
           "first_seen": "2026-08-28T21:11:14.005Z"
@@ -1071,7 +1071,7 @@
             "open_issues": 56,
             "owner": "shoov",
             "repo": "shoov",
-            "stars": 40,
+            "stars": 41,
             "topics": []
           },
           "first_seen": "2026-08-28T21:11:14.005Z"
@@ -1092,7 +1092,7 @@
             "open_issues": 2,
             "owner": "kdzwinel",
             "repo": "Look-alike",
-            "stars": 36,
+            "stars": 37,
             "topics": []
           },
           "first_seen": "2026-08-28T21:11:14.005Z"
@@ -1187,7 +1187,7 @@
             "open_issues": 6,
             "owner": "nathanmarks",
             "repo": "vrtest",
-            "stars": 17,
+            "stars": 18,
             "topics": []
           },
           "first_seen": "2026-08-28T21:11:14.005Z"
@@ -1290,11 +1290,11 @@
             "id": 7613257,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-01T16:43:47Z",
-            "open_issues": 194,
+            "last_commit": "2026-10-02T11:11:54Z",
+            "open_issues": 191,
             "owner": "SeleniumHQ",
             "repo": "selenium",
-            "stars": 34518,
+            "stars": 34516,
             "topics": [
               "dotnet",
               "java",
@@ -1376,8 +1376,8 @@
             "id": 241091114,
             "language": "JavaScript",
             "license": null,
-            "last_commit": "2026-09-29T20:03:49Z",
-            "open_issues": 34,
+            "last_commit": "2026-10-02T10:49:54Z",
+            "open_issues": 35,
             "owner": "testomatio",
             "repo": "reporter",
             "stars": 153,
@@ -1397,7 +1397,7 @@
             "id": 767591352,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-01T15:57:57Z",
+            "last_commit": "2026-10-02T15:48:08Z",
             "open_issues": 5,
             "owner": "sherlo-io",
             "repo": "sherlo",
@@ -1446,7 +1446,7 @@
             "open_issues": 27,
             "owner": "NimaSoroush",
             "repo": "differencify",
-            "stars": 638,
+            "stars": 639,
             "topics": [
               "headless-chrome",
               "jest",
@@ -1564,7 +1564,7 @@
             "open_issues": 0,
             "owner": "casperjs",
             "repo": "casperjs",
-            "stars": 7154,
+            "stars": 7155,
             "topics": [
               "headless-browsers",
               "headless-testing",
@@ -1661,7 +1661,7 @@
             "open_issues": 17,
             "owner": "joelgriffith",
             "repo": "navalia",
-            "stars": 976,
+            "stars": 977,
             "topics": [
               "automation",
               "browser",
@@ -1690,7 +1690,7 @@
             "open_issues": 19,
             "owner": "sdesalas",
             "repo": "trifleJS",
-            "stars": 830,
+            "stars": 831,
             "topics": [
               "automation",
               "browser",
@@ -1789,7 +1789,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-01T17:01:12.971Z",
+    "last_updated": "2026-10-02T16:15:54.833Z",
     "original_repository_info": {
       "archived": false,
       "description": "🕶️ A curated list of resources around the topic: visual regression testing",
